@@ -22,6 +22,11 @@ I created a sales app with **C++** using **Unreal Engine 4**. The purpose of thi
 <iframe width="500" height="281" src="https://www.youtube.com/embed/UihSD3LL3As" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 This was my first major proejct on **mobile** since starting my career as a game programmer. I learned a lot from this project by doing various tasks such as fixing bugs, creating tools for mobiles and, learning from my seniors. I focused on UI and PvP battles as well as social network intergration. This was my first time doing multiplayer programming and have learned a lot since then. I was programming in **C++**, **Objective-C** and, **Java** using **Unreal Engine 4**. 
 
+## Skylar's adventure
+<iframe width="500" height="281" src="https://www.youtube.com/embed/y_450WyiWe8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://i.gyazo.com/ca00db10e3d69d9431f93965bbf7811a.mp4
+After being in Korea for a year, I decided to head back to Toronto for a couple months to relax but a friend needed help with a project and I decided to help. They were creating a game where kids can play with parents on their phone or tablet. It was a tower defense co-op game. I programmed this from scratch in a little over 2 weeks with the help of **Gamesparks** (external multiplayer API) using **Untiy3D** (**C#**). I got to play test this game with local kids in my community and the reactions were awesome.
+
 
 ### Markdown
 
