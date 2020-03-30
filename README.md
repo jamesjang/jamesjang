@@ -1,13 +1,8 @@
-# I'm James Jang. An avid gamer and game programmer. Always striving to learn new techniques and finding ways to implement clean code.
+# I'm **James Jang**. An avid gamer and game programmer. Always striving to learn new techniques and finding ways to implement clean code.
 
 
 ## Background
 I started my path as a game developer as a gamer when I was 10 years old. After I started playing online video games, I became really intrigued on how these games were made. After learning how to program in Java, I started making mods for my favorite video games at the time. As the years went by, I ended up going to college for game programming and learned from the best in the industry. As I was starting my career in Canada, I had an opportunity to work in South Korea and I knew I had to take the chance. I have been working in South Korea since 2017. 
-
-
-
-
-
 
 ## Welcome to GitHub Pages
 
