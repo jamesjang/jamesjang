@@ -20,7 +20,7 @@ I created a sales app with **C++** using **Unreal Engine 4**. The purpose of thi
 
 ## A.V.A: The Rise of Shayka
 <iframe width="500" height="281" src="https://www.youtube.com/embed/UihSD3LL3As" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-This was my first major proejct on mobile since starting my career as a game programmer. I learned a lot from this project by doing various tasks such as fixing bugs, creating tools for mobiles and, learning from my seniors. I focused on UI and PvP battles as well as social network intergration. This was my first time doing multiplayer programming and have learned a lot since then. 
+This was my first major proejct on **mobile** since starting my career as a game programmer. I learned a lot from this project by doing various tasks such as fixing bugs, creating tools for mobiles and, learning from my seniors. I focused on UI and PvP battles as well as social network intergration. This was my first time doing multiplayer programming and have learned a lot since then. I was programming in **C++**, **Objective-C** and, **Java** using **Unreal Engine 4**. 
 
 
 ### Markdown
