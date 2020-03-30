@@ -1,3 +1,6 @@
+---
+youtubeId: lDi9uFcD7XI
+--- 
 # I'm **James Jang**. An avid gamer and game programmer. Always striving to learn new techniques and finding ways to implement clean code.
 <br>
 <br>
