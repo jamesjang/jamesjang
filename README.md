@@ -29,8 +29,3 @@ After being in Korea for a year, I decided to head back to Toronto for a couple 
 ## CrossFire2 Mobile
 ![image](https://www.slashgear.com/wp-content/uploads/2020/02/crossfire_main-1280x720.jpg)
 I worked on Crossfire 2 Mobile for nearly 2 years now and have been making progress towards releasing the game. I worked on a lot of content such as “Nano” game mode, creating new characters and, working on battle royale mode. I created a vehicle that was optimized for BR on mobile. In the 1.5 years, I worked on this game, I helped with UI, Content and, systems. I mainly used **C+**+ on **Unreal Engine 4**.
-
-### Markdown
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
