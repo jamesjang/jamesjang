@@ -1,3 +1,8 @@
+---
+youtubeId: UihSD3LL3As
+vimeoId: 237980000
+---
+
 # I'm **James Jang**. An avid gamer and game programmer. Always striving to learn new techniques and finding ways to implement clean code.
 <br>
 <br>
@@ -15,12 +20,12 @@ As a game programmer, I have a love for games. I have been playing games since I
 A game created by Ruckus Games. I was employed here during my semester as an intern. I worked on procedurally generating this mobile world using **C#** with the **Unity3D** Engine. I was tasked with fixing bugs as well as helping create character controls. This game was featured at an indie showcase at GDC but did not make it further than initial launch and was since taken down. 
 
 ## Pureblink Interactive Application
-{% include vimeoPlayer.html id=237980000 %}
+{% include vimeoPlayer.html id=vimeoId %}
 I created a sales app with **C++** using **Unreal Engine 4**. The purpose of this app was to display blueprints of apartments and create an atomsphere where potential customers can feel using digital renderings of future condominum projects. I created the architecture of this project. We got the information from a webserver and made it load onto our template during run time. This had to be done on runtime to give accurate pricing and availability information. 
 
 ## A.V.A: The Rise of Shayka
 <br>
-{% include youtubePlayer.html id=UihSD3LL3As %}
+{% include youtubePlayer.html id=youtubeId %}
 This was my first major proejct on mobile since starting my career as a game programmer. I learned a lot from this project by doing various tasks such as fixing bugs, creating tools for mobiles and, learning from my seniors. I focused on UI and PvP battles as well as social network intergration. This was my first time doing multiplayer programming and have learned a lot since then. 
 
 
