@@ -24,8 +24,9 @@ This was my first major proejct on **mobile** since starting my career as a game
 
 ## Skylar's adventure
 <iframe width="500" height="281" src="https://www.youtube.com/embed/y_450WyiWe8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-https://i.gyazo.com/ca00db10e3d69d9431f93965bbf7811a.mp4
 After being in Korea for a year, I decided to head back to Toronto for a couple months to relax but a friend needed help with a project and I decided to help. They were creating a game where kids can play with parents on their phone or tablet. It was a tower defense co-op game. I programmed this from scratch in a little over 2 weeks with the help of **Gamesparks** (external multiplayer API) using **Untiy3D** (**C#**). I got to play test this game with local kids in my community and the reactions were awesome. This project never released but got recognition from the Canadian games community. 
+
+## CrossFire Mobile
 
 
 ### Markdown
