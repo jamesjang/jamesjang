@@ -26,8 +26,9 @@ This was my first major proejct on **mobile** since starting my career as a game
 <iframe width="500" height="281" src="https://www.youtube.com/embed/y_450WyiWe8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 After being in Korea for a year, I decided to head back to Toronto for a couple months to relax but a friend needed help with a project and I decided to help. They were creating a game where kids can play with parents on their phone or tablet. It was a tower defense co-op game. I programmed this from scratch in a little over 2 weeks with the help of **Gamesparks** (external multiplayer API) using **Untiy3D** (**C#**). I got to play test this game with local kids in my community and the reactions were awesome. This project never released but got recognition from the Canadian games community. 
 
-## CrossFire Mobile
-
+## CrossFire2 Mobile
+![image](https://www.slashgear.com/wp-content/uploads/2020/02/crossfire_main-1280x720.jpg)
+I worked on Crossfire 2 Mobile for nearly 2 years now and have been making progress towards releasing the game. I worked on a lot of content such as “Nano” game mode, creating new characters and, working on battle royale mode. I created a vehicle that was optimized for BR on mobile. In the 1.5 years, I worked on this game, I helped with UI, Content and, systems. I mainly used **C+**+ on **Unreal Engine 4**.
 
 ### Markdown
 
