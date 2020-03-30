@@ -10,11 +10,13 @@ As a game programmer, I have a love for games. I have been playing games since I
 <br>
 <br>
 ## Projects:
-<br>
-Fight Those Fires:
+## Fight Those Fires:
 ![Image](https://media-exp1.licdn.com/dms/image/C4D2DAQFr88KPPfUm6Q/profile-treasury-image-shrink_800_800/0?e=1585627200&v=beta&t=bTAd6xzKpW5wMN2fLlJnxVZxNpcWT9CQI7_8Y7IpskY)
 A game created by Ruckus Games. I was employed here during my semester as an intern. I worked on procedurally generating this mobile world using **C#** with the **Unity3D** Engine. I was tasked with fixing bugs as well as helping create character controls. This game was featured at an indie showcase at GDC but did not make it further than initial launch and was since taken down. 
 
+## Pureblink Interactive Application
+[Link](https://vimeo.com/237980000)
+I created a sales app with **C++** using **Unreal Engine 4**. The purpose of this app was to display blueprints of apartments and create an atomsphere where potential customers can feel using digital renderings of future condominum projects. I created the architecture of this project. We got the information from a webserver and made it load onto our template during run time. This had to be done on runtime to give accurate pricing and availability information. 
 
 
 ## Welcome to GitHub Pages
