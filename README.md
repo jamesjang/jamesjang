@@ -6,8 +6,15 @@ I am a game programmer based in Gyeonggi-do(경기도), South Korea. I am curren
 <br>
 <br>
 As a game programmer, I have a love for games. I have been playing games since I was 10 years old and have never stopped being in love with games. I always try to understand how gameplay mechanics were made and try to break it down in order to implement some ideas into my style of programming and designs. 
+
 <br>
-Skills:
+<br>
+## Projects:
+<br>
+Fight Those Fires:
+![Image](https://media-exp1.licdn.com/dms/image/C4D2DAQFr88KPPfUm6Q/profile-treasury-image-shrink_800_800/0?e=1585627200&v=beta&t=bTAd6xzKpW5wMN2fLlJnxVZxNpcWT9CQI7_8Y7IpskY)
+A game created by Ruckus Games. I was employed here during my semester as an intern. I worked on procedurally generating this mobile world using **C#** with the **Unity3D** Engine. I was tasked with fixing bugs as well as helping create character controls. This game was featured at an indie showcase at GDC but did not make it further than initial launch and was since taken down. 
+
 
 
 ## Welcome to GitHub Pages
