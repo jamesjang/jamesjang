@@ -4,10 +4,9 @@
 ## Background
 I am a game programmer based in Gyeonggi-do(경기도), South Korea. I am currently employed by Smilegate Entertainment working on the CrossFire IP. I am a Canadian that graduated from George Brown College with a game programming degree and have been working in South Korea since 2017.
 <br>
-As a game programmer, I have a love for games. I have been playing games since I was 10 years old and have never stopped being in love with games. I always try to understand how gameplay mechanics were made and try to break it down in order to implement some ideas into my style of programming and designs. 
-
 <br>
-
+As a game programmer, I have a love for games. I have been playing games since I was 10 years old and have never stopped being in love with games. I always try to understand how gameplay mechanics were made and try to break it down in order to implement some ideas into my style of programming and designs. 
+<br>
 Skills:
 
 
