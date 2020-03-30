@@ -19,6 +19,7 @@ A game created by Ruckus Games. I was employed here during my semester as an int
 I created a sales app with **C++** using **Unreal Engine 4**. The purpose of this app was to display blueprints of apartments and create an atomsphere where potential customers can feel using digital renderings of future condominum projects. I created the architecture of this project. We got the information from a webserver and made it load onto our template during run time. This had to be done on runtime to give accurate pricing and availability information. 
 
 ## A.V.A: The Rise of Shayka
+{% include youtubePlayer.html id=lDi9uFcD7XI %}
 This was my first major proejct on mobile since starting my career as a game programmer. I learned a lot from this project by doing various tasks such as fixing bugs, creating tools for mobiles and, learning from my seniors. I focused on UI and PvP battles as well as social network intergration. This was my first time doing multiplayer programming and have learned a lot since then. 
 
 
